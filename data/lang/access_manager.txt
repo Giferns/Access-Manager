@@ -1,0 +1,27 @@
+[ru]
+ACCESS_MANAGER__STOP_SPAM = * Подождите ещё %02d:%02d
+ACCESS_MANAGER__RELOADING_ADMINS = * Инициирована перезагрузка списка учётных записей...
+ACCESS_MANAGER__ACCESS_INFO = * Вы получили флаги доступа: %s
+ACCESS_MANAGER__ACCESS_DENIED = Данный %L защищён паролем!
+ACCESS_MANAGER__NAME = ник
+ACCESS_MANAGER__STEAMID = SteamID
+ACCESS_MANAGER__IP = IP-адрес
+ACCESS_MANAGER__KICK_INFO_1 = * Пропишите: setinfo "%s" "ваш_пароль"
+ACCESS_MANAGER__KICK_INFO_2 = * Не знаете пароль?
+ACCESS_MANAGER__VISIT_SITE = Обратитесь к администрации!
+ACCESS_MANAGER__CHANGE_NAME = Тогда смените ник!
+ACCESS_MANAGER__NO_ACCESS = * У вас нет доступа к данной функции!
+
+[en]
+ACCESS_MANAGER__STOP_SPAM = * You must wait %02d:%02d
+ACCESS_MANAGER__RELOADING_ADMINS = * Reloading of the account's list is initiated...
+ACCESS_MANAGER__ACCESS_INFO = * You got access flags: %s
+ACCESS_MANAGER__ACCESS_DENIED = This %L is password protected!
+ACCESS_MANAGER__NAME = nickname
+ACCESS_MANAGER__STEAMID = SteamID
+ACCESS_MANAGER__IP = IP-address
+ACCESS_MANAGER__KICK_INFO_1 = * Type: setinfo "%s" "your_password"
+ACCESS_MANAGER__KICK_INFO_2 = * Don't know the password?
+ACCESS_MANAGER__VISIT_SITE = Contact the administration!
+ACCESS_MANAGER__CHANGE_NAME = Then change your nickname!
+ACCESS_MANAGER__NO_ACCESS = * You have no access to this function!
